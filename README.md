@@ -59,17 +59,17 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/wymwill/wymwill/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="300" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/wymwill/wymwill/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="300" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/wymwill/wymwill/stats-output/stats.svg" height="300" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/wymwill/wymwill/languages-output/languages.svg" height="300" alt="languages graph"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
-  <a href="willwands@gmail.com" target="_blank">
+  <a href="mailto:willwands@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href=" https://www.linkedin.com/in/wowands/" target="_blank">
+  <a href="https://www.linkedin.com/in/wowands/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -77,9 +77,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wymwill/wymwill/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wymwill/wymwill/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wymwill/wymwill/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wymwill/wymwill/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wymwill/wymwill/pacman-output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/wymwill/wymwill/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
