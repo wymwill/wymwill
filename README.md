@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi there! My name is Will and I'm a student at Rutgers University. <br><br>Take a look around and don't be afraid to contact me!</h2>
+<h2 data-importer="text" align="left" padding="20 20">Hi there! My name is Will and I'm a student at Rutgers University. <br><br>Take a look around and don't be afraid to contact me!</h2>
 
 ###
 
